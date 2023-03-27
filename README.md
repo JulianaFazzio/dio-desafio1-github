@@ -1,2 +1,3 @@
-# Desafio de projeto sobre  Git/GItHub 
-**Repositório criado para o desafio do projeto.**
+# Desafio de projeto sobre  Git/GItHub :books:
+- Anotações da aula de introdução de Git/Github.
+- **Links úteis para estudo: [Git fichas](https://gitfichas.com/)**
