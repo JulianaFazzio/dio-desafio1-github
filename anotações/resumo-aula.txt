@@ -1,0 +1,7 @@
+ O que é o Git?
+É o que chamamos de software de controle de versões. Ele possui código aberto e é gratuíto. Permite que você gerencie as alterações feitas nos arquivos de um projeto ao longo do tempo e as pessoas podem contribuir para o mesmo projeto.
+Ao utilizar o git você se torna responsável de documentar a história de seu projeto, podendo ir e voltar no tempo. Tendo a capacidade de reescrever algo.
+Você pode salvar uma parte do trabalho feito até um dado ponto e esta operação é chamada de commit . Podendo também deixar mensagens sobre o que aconteceu em cada um dos diferentes estados.
+
+O git é um software que o design dele é CLI, ele não tem uma interface gráfica, diferente do GUI. A forma de interação com o git é por linha de comando.
+
